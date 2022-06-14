@@ -7,3 +7,4 @@
 |-|-
 |<img src="https://activity-graph.herokuapp.com/graph?username=liusxs&theme=react-dark"/>|<img src="https://activity-graph.herokuapp.com/graph?username=pLeepl&theme=react-dark"/>
 |<img src="https://activity-graph.herokuapp.com/graph?username=xiaokouhan&theme=react-dark"/>|<img src="https://activity-graph.herokuapp.com/graph?username=pujiurong&theme=react-dark"/>
+|<img src="https://activity-graph.herokuapp.com/graph?username=zengbing&theme=react-dark"/>|<img src="https://activity-graph.herokuapp.com/graph?username=ningxxxx&theme=react-dark"/>
